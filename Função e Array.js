@@ -15,7 +15,7 @@ function competidores (firstPlace, secondPlace, lastPlace){
     let segundo = "o Segundo lugar foi: " + secondPlace;
     let terceiro = "o Terceiro lugar foi: " + lastPlace;
     let arrFinal = [];
-    arrFinal.push (firstPlace, secondPlace, lastPlace
+    arrFinal.push (primeiro, segundo, terceiro)
    
     return (firstPlace, secondPlace, lastPlace)
 }
